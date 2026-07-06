@@ -1,9 +1,8 @@
 {
-  "version": "1.3.0",
+  "version": "1.1.7",
   "notes": [
-    "Added Browser Agent",
-    "Added Auto Memory",
-    "Improved Speed"
+    "Added more agents",
+    "to enhance the quality of product"
   ],
   "download_url": "https://github.com/yourusername/bhavai/releases/download/v1.3.0/bhav.exe"
 }
